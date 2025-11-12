@@ -1,0 +1,14 @@
+D:\Assignment .NET\Week2\Week2\bin\Debug\net8.0\Week2.exe
+D:\Assignment .NET\Week2\Week2\bin\Debug\net8.0\Week2.deps.json
+D:\Assignment .NET\Week2\Week2\bin\Debug\net8.0\Week2.runtimeconfig.json
+D:\Assignment .NET\Week2\Week2\bin\Debug\net8.0\Week2.dll
+D:\Assignment .NET\Week2\Week2\bin\Debug\net8.0\Week2.pdb
+D:\Assignment .NET\Week2\Week2\obj\Debug\net8.0\Week2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment .NET\Week2\Week2\obj\Debug\net8.0\Week2.AssemblyInfoInputs.cache
+D:\Assignment .NET\Week2\Week2\obj\Debug\net8.0\Week2.AssemblyInfo.cs
+D:\Assignment .NET\Week2\Week2\obj\Debug\net8.0\Week2.csproj.CoreCompileInputs.cache
+D:\Assignment .NET\Week2\Week2\obj\Debug\net8.0\Week2.dll
+D:\Assignment .NET\Week2\Week2\obj\Debug\net8.0\refint\Week2.dll
+D:\Assignment .NET\Week2\Week2\obj\Debug\net8.0\Week2.pdb
+D:\Assignment .NET\Week2\Week2\obj\Debug\net8.0\Week2.genruntimeconfig.cache
+D:\Assignment .NET\Week2\Week2\obj\Debug\net8.0\ref\Week2.dll
