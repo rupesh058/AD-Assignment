@@ -1,0 +1,14 @@
+D:\Assignment .NET\Week3Workshop\Week3Workshop\bin\Debug\net8.0\Week3Workshop.exe
+D:\Assignment .NET\Week3Workshop\Week3Workshop\bin\Debug\net8.0\Week3Workshop.deps.json
+D:\Assignment .NET\Week3Workshop\Week3Workshop\bin\Debug\net8.0\Week3Workshop.runtimeconfig.json
+D:\Assignment .NET\Week3Workshop\Week3Workshop\bin\Debug\net8.0\Week3Workshop.dll
+D:\Assignment .NET\Week3Workshop\Week3Workshop\bin\Debug\net8.0\Week3Workshop.pdb
+D:\Assignment .NET\Week3Workshop\Week3Workshop\obj\Debug\net8.0\Week3Workshop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment .NET\Week3Workshop\Week3Workshop\obj\Debug\net8.0\Week3Workshop.AssemblyInfoInputs.cache
+D:\Assignment .NET\Week3Workshop\Week3Workshop\obj\Debug\net8.0\Week3Workshop.AssemblyInfo.cs
+D:\Assignment .NET\Week3Workshop\Week3Workshop\obj\Debug\net8.0\Week3Workshop.csproj.CoreCompileInputs.cache
+D:\Assignment .NET\Week3Workshop\Week3Workshop\obj\Debug\net8.0\Week3Workshop.dll
+D:\Assignment .NET\Week3Workshop\Week3Workshop\obj\Debug\net8.0\refint\Week3Workshop.dll
+D:\Assignment .NET\Week3Workshop\Week3Workshop\obj\Debug\net8.0\Week3Workshop.pdb
+D:\Assignment .NET\Week3Workshop\Week3Workshop\obj\Debug\net8.0\Week3Workshop.genruntimeconfig.cache
+D:\Assignment .NET\Week3Workshop\Week3Workshop\obj\Debug\net8.0\ref\Week3Workshop.dll
