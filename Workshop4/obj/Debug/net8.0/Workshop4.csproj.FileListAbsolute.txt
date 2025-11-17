@@ -1,0 +1,14 @@
+D:\Assignment .NET\Workshop4\bin\Debug\net8.0\Workshop4.exe
+D:\Assignment .NET\Workshop4\bin\Debug\net8.0\Workshop4.deps.json
+D:\Assignment .NET\Workshop4\bin\Debug\net8.0\Workshop4.runtimeconfig.json
+D:\Assignment .NET\Workshop4\bin\Debug\net8.0\Workshop4.dll
+D:\Assignment .NET\Workshop4\bin\Debug\net8.0\Workshop4.pdb
+D:\Assignment .NET\Workshop4\obj\Debug\net8.0\Workshop4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment .NET\Workshop4\obj\Debug\net8.0\Workshop4.AssemblyInfoInputs.cache
+D:\Assignment .NET\Workshop4\obj\Debug\net8.0\Workshop4.AssemblyInfo.cs
+D:\Assignment .NET\Workshop4\obj\Debug\net8.0\Workshop4.csproj.CoreCompileInputs.cache
+D:\Assignment .NET\Workshop4\obj\Debug\net8.0\Workshop4.dll
+D:\Assignment .NET\Workshop4\obj\Debug\net8.0\refint\Workshop4.dll
+D:\Assignment .NET\Workshop4\obj\Debug\net8.0\Workshop4.pdb
+D:\Assignment .NET\Workshop4\obj\Debug\net8.0\Workshop4.genruntimeconfig.cache
+D:\Assignment .NET\Workshop4\obj\Debug\net8.0\ref\Workshop4.dll
