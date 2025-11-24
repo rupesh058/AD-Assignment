@@ -1,0 +1,4 @@
+D:\Assignment .NET\Week 5\obj\Debug\net8.0\Week 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment .NET\Week 5\obj\Debug\net8.0\Week 5.AssemblyInfoInputs.cache
+D:\Assignment .NET\Week 5\obj\Debug\net8.0\Week 5.AssemblyInfo.cs
+D:\Assignment .NET\Week 5\obj\Debug\net8.0\Week 5.csproj.CoreCompileInputs.cache
